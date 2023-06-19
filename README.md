@@ -56,5 +56,16 @@ namespace file2{
 
 ```
 
+我正在尝试了解 Kestrel 服务器在 C# 中的用法，以便稍后在 ASP .NET 和 Blazor 中使用。我还需要了解 Razor 页面
+
+
+
+
+
+
+
+
+
+
 
 
